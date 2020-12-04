@@ -1,0 +1,21 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# production
+/dist
+.idea
+/idea
+.vscode
+debug.log
+# misc
+.DS_Store
+npm-debug.log*
+/aaa
+/bbb
+/ccc
+/ddd
+/eee
+/fff
+/ggg
