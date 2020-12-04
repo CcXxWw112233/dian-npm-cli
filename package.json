@@ -1,6 +1,6 @@
 {
   "name": "dian-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a private cli",
   "main": "index.js",
   "bin": {
